@@ -1,4 +1,4 @@
-import { cipher } from '~~/server/encryption'
+import { cipher } from '~/server/encryption'
 
 export default defineEventHandler((event) => {
   const config = useRuntimeConfig()
