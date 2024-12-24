@@ -1,5 +1,5 @@
-import { decipher } from '~/server/encryption'
-import { VERSION } from '~/server/common'
+import { decipher } from '../../encryption'
+import { VERSION } from '../../common'
 
 export default defineEventHandler((event) => {
   const q = useQuery(event)
