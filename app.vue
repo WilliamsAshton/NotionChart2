@@ -2,8 +2,8 @@
 useHead({
   link: [
     {
-      rel: "stylesheet",
-      href: "https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css",
+      rel: 'stylesheet',
+      href: 'https://cdn-uicons.flaticon.com/uicons-bold-rounded/css/uicons-bold-rounded.css',
     },
   ],
 });
